@@ -1,5 +1,5 @@
 // juego.h
-// Declaración de la clase Juego
+// DeclaraciÃ³n de la clase Juego
 
 #ifndef JUEGO_H
 #define JUEGO_H
@@ -7,6 +7,7 @@
 #include <iostream>
 #include <cctype>
 #include <chrono>
+#include<sstream>
 #include <thread>
 #include <windows.h>
 #include <mmsystem.h>
